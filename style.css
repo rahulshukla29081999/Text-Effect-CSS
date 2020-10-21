@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    /*font family*/
+font-family: sans-serif;
+/*SETTIG THE TEXT TO THE CENTER*/
+text-align: center;
+margin-top: 150px;
+font-size: 150px;
+font-weight: 1500;
+color: transparent;
+background-image: url(https://media.giphy.com/media/l0Iy0mwQTIAd3KYow/giphy.gif);
+/*SETTNG THE BACKGROUND POSITION*/
+background-position: center;
+-webkit-background-clip: text;
